@@ -1,4 +1,4 @@
-# chat application
+# FlutterChat application
 
 
 ## Demo Screenshot
